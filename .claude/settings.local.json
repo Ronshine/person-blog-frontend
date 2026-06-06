@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/claude_workspace/person_blog_back_end/src/main/resources/**)",
+      "PowerShell(Get-ChildItem d:\\\\claude_workspace\\\\person_blog_back_end\\\\src\\\\main\\\\resources\\\\ -File | ForEach-Object { $_.FullName })",
+      "Read(//d/claude_workspace/person_blog_back_end/**)"
+    ]
+  }
+}
